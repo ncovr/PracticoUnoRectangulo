@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee6bb0e0-0c53-4cac-a03f-37d49a55a3c8" name="Changes" comment="hola">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ee6bb0e0-0c53-4cac-a03f-37d49a55a3c8" name="Changes" comment="Starting">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +14,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -54,7 +54,7 @@
       <updated>1693533248731</updated>
       <workItem from="1693533249841" duration="305000" />
       <workItem from="1693533743522" duration="92000" />
-      <workItem from="1693534084133" duration="1531000" />
+      <workItem from="1693534084133" duration="2224000" />
     </task>
     <task id="LOCAL-00001" summary="hola">
       <option name="closed" value="true" />
@@ -64,7 +64,47 @@
       <option name="project" value="LOCAL" />
       <updated>1693534196520</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hola add">
+      <option name="closed" value="true" />
+      <created>1693535766241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693535766241</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chao add">
+      <option name="closed" value="true" />
+      <created>1693535923104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693535923104</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chao add">
+      <option name="closed" value="true" />
+      <created>1693535948429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693535948429</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Starting">
+      <option name="closed" value="true" />
+      <created>1693536154524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693536154524</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Starting">
+      <option name="closed" value="true" />
+      <created>1693536297273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693536297273</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +135,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="hola" />
+    <MESSAGE value="hola add" />
+    <MESSAGE value="chao add" />
+    <MESSAGE value="Starting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting" />
   </component>
 </project>
