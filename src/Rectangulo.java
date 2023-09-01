@@ -22,4 +22,8 @@ public class Rectangulo {
     }
     public double diagonal() { return sqrt((largo*largo)+(ancho*ancho)); }
 
+    public int getLargo(){
+        return largo;
+    }
+
 }

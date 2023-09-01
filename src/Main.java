@@ -20,9 +20,21 @@ public class Main {
 
         // Aumentar el ancho de R1
         System.out.println("Ingrese el nuevo ancho"); // Socilita el nuevo ancho para reemplazar el valor de ancho em R1
-        ancho = in.nextInt(); // Captura el valor ingresado por teclado
-        R1.setAncho(ancho); // Invoca el metodo setAncho y reestablece el nuevo ancho para R1
+        R1.setAncho(in.nextInt()); // Invoca el metodo setAncho y reestablece el nuevo ancho para R1
 
+        // Desplegar metodos con los nuevos valores
+        System.out.println("Area: "+(R1.area())); // Invoca el método ".area" del objeto Rectangulo
+        System.out.println("Perimetro: "+(R1.perimetro())); // Invoca el método ".perimetro" del objeto Rectangulo
+        System.out.println("Diagonal: "+(R1.diagonal())); // Invoca el método ".diagonal" del objeto Rectangulo
+
+        // Volver al ancho anterior
+        System.out.print("Ingrese el ancho digitado al inicio: ");
+        R1.setAncho(in.nextInt());
+        // Discminuir el largo del rectangulo
+        System.out.print("Ingrese un largo menor al actual ("+(R1.getLargo())+"): ");
+        R1.setLargo(in.nextInt());
+
+        // Desplegar metodos con los nuevos valores
         System.out.println("Area: "+(R1.area())); // Invoca el método ".area" del objeto Rectangulo
         System.out.println("Perimetro: "+(R1.perimetro())); // Invoca el método ".perimetro" del objeto Rectangulo
         System.out.println("Diagonal: "+(R1.diagonal())); // Invoca el método ".diagonal" del objeto Rectangulo
