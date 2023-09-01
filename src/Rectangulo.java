@@ -1,3 +1,5 @@
+import static java.lang.Math.sqrt;
+
 public class Rectangulo {
     private int ancho;
     private int largo;
@@ -10,17 +12,14 @@ public class Rectangulo {
     public void setAncho(int a){
         ancho = a;
     }
-
     public void setLargo(int l){
         largo = l;
     }
 
-    public int area(){
-        return (largo*ancho);
-    }
-
+    public int area(){ return (largo*ancho); }
     public int perimetro(){
         return ((largo*2)+(ancho*2));
     }
+    public double diagonal() { return sqrt((largo*largo)+(ancho*ancho)); }
 
 }
